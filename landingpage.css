@@ -88,6 +88,7 @@ h3 {
     top: 340px;
     left: 175px;
     justify-content: center;
+    cursor:pointer;
 }
 
 .img2 {
